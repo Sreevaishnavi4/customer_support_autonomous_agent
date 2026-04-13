@@ -1,8 +1,6 @@
 # customer_support_autonomous_agent
 AI-powered customer support agent with intent routing, Cosmos DB order lookup, FAQ handling, Azure OpenAI responses, and a Streamlit dashboard.
-# Customer Support Agent
 
-An AI-powered customer support agent that classifies user queries, retrieves relevant support data, and generates natural responses. The project includes a FastAPI backend and a Streamlit dashboard for interactive demos.
 
 ## Highlights
 
